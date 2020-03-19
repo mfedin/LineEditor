@@ -1,8 +1,7 @@
 {
   "profiles": {
     "LineEditor": {
-      "commandName": "Project",
-      "commandLineArgs": "file.txt"
+      "commandName": "Project"
     }
   }
 }
